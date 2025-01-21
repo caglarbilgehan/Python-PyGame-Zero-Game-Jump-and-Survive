@@ -71,6 +71,12 @@ Jump-and-Survive/
 
 ---
 
+## 📹 Demo Video
+
+[Watch the Video on YouTube](https://www.youtube.com/watch?v=RzOnH-Qf4mY)
+
+---
+
 ## 📸 Screenshots
 
 ### Main Menu
@@ -81,12 +87,6 @@ Jump-and-Survive/
 
 ### Gameplay
 ![Gameplay](screenshots/gameplay.jpg)
-
----
-
-## 📹 Demo Video
-
-[Watch the Video on YouTube](https://www.youtube.com/watch?v=RzOnH-Qf4mY)
 
 ---
 
