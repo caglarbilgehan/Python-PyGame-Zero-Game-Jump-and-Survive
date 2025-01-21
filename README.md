@@ -86,7 +86,7 @@ Jump-and-Survive/
 
 ## 📹 Demo Video
 
-[Watch the demo on YouTube](https://youtu.be/your-demo-video-link)
+[Watch the demo on YouTube](https://youtu.be/RzOnH-Qf4mY?si=pylbNuQOPabODVRI)
 
 ---
 
@@ -117,4 +117,8 @@ Contributions are welcome! Feel free to fork the repository, make your changes, 
 This game was developed by **E. Çağlar Bilgehan**. For questions or suggestions, feel free to reach out!
 
 📧 Email: [caglar@bilgehan.biz](mailto:caglar@bilgehan.biz)  
-GitHub: [caglarbilgehan](https://github.com/caglarbilgehan)
+💻 GitHub: [caglarbilgehan](https://github.com/caglarbilgehan)
+
+---
+
+Thank you and have fun! 🎉
