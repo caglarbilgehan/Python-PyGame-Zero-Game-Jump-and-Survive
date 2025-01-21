@@ -75,8 +75,6 @@ Jump-and-Survive/
 
 [Watch the Video on YouTube](https://www.youtube.com/watch?v=RzOnH-Qf4mY)
 
----
-
 ## 📸 Screenshots
 
 ### Main Menu
@@ -96,21 +94,9 @@ Jump-and-Survive/
 - Avoid side collisions to maintain your health.
 - Beat your high score!
 
----
-
-## 🚀 Future Improvements
-
-- Add new enemy types with unique movement patterns.
-- Include power-ups like health boosts or temporary invincibility.
-- Introduce new levels with increasing difficulty.
-
----
-
 ## 🤝 Contribution
 
 Contributions are welcome! Feel free to fork the repository, make your changes, and open a pull request.
-
----
 
 ## 👨‍💻 Developer
 
