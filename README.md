@@ -86,8 +86,6 @@ Jump-and-Survive/
 ### Gameplay
 ![Gameplay](screenshots/gameplay.jpg)
 
----
-
 ## 🏆 Goals
 
 - Reach 20 points to win the game.
