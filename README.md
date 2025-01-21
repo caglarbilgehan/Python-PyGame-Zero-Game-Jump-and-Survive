@@ -86,7 +86,7 @@ Jump-and-Survive/
 
 ## 📹 Demo Video
 
-[![Watch the Video](https://img.youtube.com/vi/RzOnH-Qf4mY/0.jpg)](https://www.youtube.com/watch?v=RzOnH-Qf4mY)
+[Watch the Video on YouTube](https://www.youtube.com/watch?v=RzOnH-Qf4mY)
 
 ---
 
